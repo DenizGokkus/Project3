@@ -52,3 +52,7 @@ int main() {
 
     return 0;
 }
+
+
+
+//Note to myself Add more tests!!
